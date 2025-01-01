@@ -1,0 +1,14 @@
+{
+  "Category": {
+    "count": 5572,
+    "unique": 2,
+    "top": "ham",
+    "freq": 4825
+  },
+  "Message": {
+    "count": 5572,
+    "unique": 5157,
+    "top": "Sorry, I'll call later",
+    "freq": 30
+  }
+}

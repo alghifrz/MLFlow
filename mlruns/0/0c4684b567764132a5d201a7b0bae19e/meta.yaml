@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c4684b567764132a5d201a7b0bae19e/artifacts
+end_time: 1735722003656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c4684b567764132a5d201a7b0bae19e
+run_name: incongruous-owl-535
+run_uuid: 0c4684b567764132a5d201a7b0bae19e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735722003607
+status: 3
+tags: []
+user_id: HP
